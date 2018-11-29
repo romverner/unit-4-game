@@ -1,10 +1,10 @@
 #head-bar {
     background-color: lightcoral !important;
     padding: 20px 0px 20px 20px;
+    margin: 0px 0px;
 }
 
 .p-column {
-    background-color: lightpink !important;
     padding: 20px 0px 20px 20px ;
     margin: 0px 0px !important;
 }

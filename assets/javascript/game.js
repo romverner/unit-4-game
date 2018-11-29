@@ -45,6 +45,7 @@ $(document).ready(function() {
                 attributeSet();
 
                 lossCount += 1;
+                alert("You lost. Try again!")
                 resetGame();
             }
 
@@ -53,6 +54,7 @@ $(document).ready(function() {
                 attributeSet();
 
                 winCount += 1;
+                alert("You won!");
                 resetGame();
             }
         }
